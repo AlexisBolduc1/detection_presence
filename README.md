@@ -12,7 +12,7 @@ Les lumières scintillent de manière aléatoire
 #### Quelqu'un s'approche 
 Les lumière s'éteignent
 #### Passe devant les lumières
-Les lumières suivent le mouvement de la personne
+Les lumières suivent le mouvement de la main de la personne
 
 Illumine simplement la partie où l'interacteur est présent
 
