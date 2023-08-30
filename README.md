@@ -27,5 +27,12 @@ Illumine simplement la partie où l'interacteur est présent
 
 Faire fonctionner le système avec plusieurs personnes
 
+### Réalisation
+
+Relier les lumières ainsi que les capteurs de mouvement
+Programmer avec arduino afin de lier les lumières ainsi que les capteurs de mouvement
+Régler la durée que les lumières restent allumer ou éteinte
+[code arduino](https://arduino-france.site/capteur-mouvement/#1)
+
 
 
