@@ -6,6 +6,12 @@ Capter le mouvement grâce à des capteurs
 
 Synchroniser le mouvement avec les lumières
 
+#### Matériel
+Ordinateur
+
+Lumière
+
+Capteur de mouvement
 
 #### Aucun visiteur
 ![aucun](media/aucun.png)
