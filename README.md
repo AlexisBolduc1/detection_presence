@@ -1,5 +1,10 @@
 # Présentation d'une idée
 ## Détection de mouvement
+Capteur de mouvement infrarouge
+
+La chaleur produite par un humain produit des infrarouges
+
+Le rayonnement infrarouge permet au capteur de détecter la présence
 
 ### Concept
 Capter le mouvement grâce à des capteurs
@@ -30,9 +35,12 @@ Faire fonctionner le système avec plusieurs personnes
 ### Réalisation
 
 Relier les lumières ainsi que les capteurs de mouvement
+
 Programmer avec arduino afin de lier les lumières ainsi que les capteurs de mouvement
+
 Régler la durée que les lumières restent allumer ou éteinte
-[code arduino](https://arduino-france.site/capteur-mouvement/#1)
+
+[Code arduino](https://arduino-france.site/capteur-mouvement/#1)
 
 
 
