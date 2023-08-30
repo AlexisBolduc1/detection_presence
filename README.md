@@ -21,7 +21,7 @@ Capteur de mouvement
 #### Aucun visiteur
 ![aucun](media/aucun.png)
 Les lumières scintillent de manière aléatoire
-#### Quelqu'un s'approche 
+#### Quelqu'un s'approche (place précise)
 Les lumière s'éteignent
 ![arriver](media/arriver.png)
 #### Passe devant les lumières
