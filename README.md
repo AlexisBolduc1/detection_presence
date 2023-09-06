@@ -11,6 +11,8 @@ Capter le mouvement grâce à des capteurs
 
 Synchroniser le mouvement avec les lumières
 
+Rajouter peut-être une synchronisation avec une projection et de la musique
+
 #### Matériel
 Ordinateur
 
@@ -41,6 +43,8 @@ Programmer avec arduino afin de lier les lumières ainsi que les capteurs de mou
 Régler la durée que les lumières restent allumer ou éteinte
 
 [Code arduino](https://arduino-france.site/capteur-mouvement/#1)
+
+
 
 
 
