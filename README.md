@@ -1,3 +1,6 @@
+m5 thermal camera, pir sensor x, idée:miroir de base qualité interactif, microwave presence detector/sensor, camera thermique, trouver la méthode et développer l'idée du projet
+
+
 # Présentation d'une idée
 ## Détection de mouvement
 Capteur de mouvement infrarouge
