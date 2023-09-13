@@ -2,7 +2,7 @@
 
 ### Concept
 
-![Concept global](medias/concept_ensemble.png)
+![Concept global](media/concept_ensemble.png)
 
 Capter la chaleur grâce à une caméra thermique ou une kinect.
 
@@ -16,7 +16,7 @@ De plus en plus vite en fonction du mouvement.
 
 Pendant ce temps, une personne dirige la personne devant les lumières grâcent à une retransmission de la caméra.
 
-![Concept jeu](medias/concept_jeu.png)
+![Concept jeu](media/concept_jeu.png)
 
 Un jeu avec la retransmission apparaît sur une tablette.
 
