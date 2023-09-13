@@ -4,7 +4,7 @@ m5 thermal camera, pir sensor x, idée:miroir de base qualité interactif, micro
 # Présentation d'une idée
 
 ### Concept
-Capter la chaleur grâce à une caméra thermique.
+Capter la chaleur grâce à une caméra thermique ou une kinect.
 
 Quand le capteur détecte une forte chaleur, il allume les lumières.
 
@@ -14,7 +14,18 @@ Lorsque les mouvement s'accélère les lumières commencent à clignoter.
 
 De plus en plus vite en fonction du mouvement.
 
-Rajouter peut-être une synchronisation avec une projection et de la musique
+Pendant ce temps, une personne dirige la personne devant les lumières grâcent à une retransmission de la caméra.
+
+Un jeu avec la retransmission apparaît sur une tablette.
+
+Les deux personnes devront donc communiquer afin de finir le mini jeu.
+
+Le mini jeu rajoutera des bruits constants un après l'autre lorsque les points sont récoltés.
+
+Tout dans le but de déstabiliser les joueurs (bruit, lumière qui apparaît et qui clignote)
+
+
+
 
 #### Matériel
 Ordinateur
