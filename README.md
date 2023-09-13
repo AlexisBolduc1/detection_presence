@@ -1,6 +1,9 @@
 # Présentation d'une idée
 
 ### Concept
+
+![Concept global](medias/concept_ensemble.png)
+
 Capter la chaleur grâce à une caméra thermique ou une kinect.
 
 Quand le capteur détecte une forte chaleur, il allume les lumières.
@@ -12,6 +15,8 @@ Lorsque les mouvement s'accélère les lumières commencent à clignoter.
 De plus en plus vite en fonction du mouvement.
 
 Pendant ce temps, une personne dirige la personne devant les lumières grâcent à une retransmission de la caméra.
+
+![Concept jeu](medias/concept_jeu.png)
 
 Un jeu avec la retransmission apparaît sur une tablette.
 
