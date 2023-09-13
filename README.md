@@ -1,6 +1,3 @@
-m5 thermal camera, pir sensor x, idée:miroir de base qualité interactif, microwave presence detector/sensor, camera thermique, trouver la méthode et développer l'idée du projet
-
-
 # Présentation d'une idée
 
 ### Concept
@@ -32,31 +29,23 @@ Ordinateur
 
 Lumière
 
-Capteur de mouvement
+Kinect
 
-#### Aucun visiteur
-![aucun](media/aucun.png)
-Les lumières scintillent de manière aléatoire
-#### Quelqu'un s'approche (place précise)
-Les lumière s'éteignent
-![arriver](media/arriver.png)
-#### Passe devant les lumières
-Les lumières suivent le mouvement de la main de la personne
-![arriver](media/passe.png)
+Unity
 
-Illumine simplement la partie où l'interacteur est présent
+M5 thermal camera / caméra thermique
 
-Faire fonctionner le système avec plusieurs personnes
 
 ### Réalisation
 
-Relier les lumières ainsi que les capteurs de mouvement
+Détecter la chaleur afin de faire allumer les lumières simplement lorsque la chaleur est forte
+Relier les lumière à la caméra thermique
+Transmettre le flux d'une caméra à un ipad grâce à une kinect
+Faire un mini jeu intégrant le flux vidéo grâce à unity
+Rendre le mini jeu interactif
+Synchroniser pour que le jeu garde le son lorsque la pastille est touché
+Faire apparaître des instructions afin de rendre la compréhension plus clair
 
-Programmer avec arduino afin de lier les lumières ainsi que les capteurs de mouvement
-
-Régler la durée que les lumières restent allumer ou éteinte
-
-[Code arduino](https://arduino-france.site/capteur-mouvement/#1)
 
 
 
