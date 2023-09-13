@@ -2,17 +2,17 @@ m5 thermal camera, pir sensor x, idée:miroir de base qualité interactif, micro
 
 
 # Présentation d'une idée
-## Détection de mouvement
-Capteur de mouvement infrarouge
-
-La chaleur produite par un humain produit des infrarouges
-
-Le rayonnement infrarouge permet au capteur de détecter la présence
 
 ### Concept
-Capter le mouvement grâce à des capteurs
+Capter la chaleur grâce à une caméra thermique.
 
-Synchroniser le mouvement avec les lumières
+Quand le capteur détecte une forte chaleur, il allume les lumières.
+
+Ainsi, la silouhette de la personne ou bien simplement la partie proche des lumières s'allumera.
+
+Lorsque les mouvement s'accélère les lumières commencent à clignoter.
+
+De plus en plus vite en fonction du mouvement.
 
 Rajouter peut-être une synchronisation avec une projection et de la musique
 
