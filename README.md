@@ -44,11 +44,17 @@ M5 thermal camera / caméra thermique
 ### Réalisation
 
 Détecter la chaleur afin de faire allumer les lumières simplement lorsque la chaleur est forte
+
 Relier les lumière à la caméra thermique
+
 Transmettre le flux d'une caméra à un ipad grâce à une kinect
+
 Faire un mini jeu intégrant le flux vidéo grâce à unity
+
 Rendre le mini jeu interactif
+
 Synchroniser pour que le jeu garde le son lorsque la pastille est touché
+
 Faire apparaître des instructions afin de rendre la compréhension plus clair
 
 
