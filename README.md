@@ -4,7 +4,7 @@
 
 ![Concept global](media/concept_ensemble.png)
 
-Capter la chaleur grâce à une caméra thermique ou une kinect.
+Capter la chaleur grâce à une caméra thermique.
 
 Quand le capteur détecte une forte chaleur, il allume les lumières.
 
