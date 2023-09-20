@@ -61,6 +61,8 @@ Projection visuelle + lumière = Madmapper
 
 Relié le tous = Max
 
+Garder une continuité dans l'histoire = Coupure de plan, changer de plan, enchainement fluide
+
 
 
 
