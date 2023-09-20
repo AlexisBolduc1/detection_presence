@@ -55,6 +55,12 @@ L'objet vient sortir à une séquence précise et invite l'intéracteur a faire 
 
 ### Qu’est-ce qui va être difficile, et comment cela sera réalisé 
 
+L'objet interactif = arduino + objets
+
+Projection visuelle + lumière = Madmapper 
+
+Relié le tous = Max
+
 
 
 
