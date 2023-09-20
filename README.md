@@ -1,5 +1,29 @@
 # Présentation d'une idée
 
+## Concept général 
+
+### Thème fédérateur 
+
+### Espace  
+
+## Inspirations 
+16 min. [Detroit Become Human]([https://www.google.com](https://www.youtube.com/watch?v=t3cLDDwLeJA))
+
+### Conceptuelles 
+
+### Artistique / esthétique  
+
+### Technique / technologique  
+
+## Concept spécifique  
+
+### Simulation visuelle attrayante  
+
+## Reconnaissance de limites / défis 
+
+### Qu’est-ce qui va être difficile, et comment cela sera réalisé 
+
+
 ### Concept
 
 ![Concept global](media/concept_ensemble.png)
