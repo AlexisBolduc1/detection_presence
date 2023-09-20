@@ -8,9 +8,12 @@
 
 ## Inspirations 
 16 min. [Detroit Become Human](https://www.youtube.com/watch?v=t3cLDDwLeJA)
+
 [Black Mirror: Bandersnatch](https://www.youtube.com/watch?v=VNw9DAwp2Kk)
 
 ### Conceptuelles 
+[Imagine Monet](https://artipelag.se/en/at-artipelag/imagine-monet-the-immersive-exhibition/)
+
 
 ### Artistique / esthétique  
 
