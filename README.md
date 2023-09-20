@@ -47,9 +47,9 @@ L'objet vient sortir à une séquence précise et invite l'intéracteur a faire 
 
 
 ### Simulation visuelle attrayante  
-![Exemple interaction](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exemple interaction](media/experience.png)
 
-![Exemple app](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exemple app](media/choix.png)
 
 ## Reconnaissance de limites / défis 
 
