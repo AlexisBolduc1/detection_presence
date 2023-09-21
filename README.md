@@ -9,7 +9,6 @@ Son choix impacte l'histoire
 
 Plusieurs fins sont possible
 
-### Espace  
 Projection à la fois sur les murs et sur le sol
 
 ## Inspirations 
