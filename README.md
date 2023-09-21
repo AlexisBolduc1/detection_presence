@@ -1,6 +1,6 @@
 # Présentation d'une idée
 
-Développer le concept
+Développer le concept (interactivité touche,objet,scénario)
 
 ## Concept général 
 Histoire interactive
