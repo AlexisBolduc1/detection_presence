@@ -44,8 +44,6 @@ Objet interactif permet également de faire un choix
 
 L'objet vient sortir à une séquence précise et invite l'intéracteur a faire un choix
 
-
-### Simulation visuelle attrayante  
 ![Exemple interaction](media/experience.png)
 
 ![Exemple app](media/choix.png)
