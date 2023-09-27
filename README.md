@@ -44,7 +44,7 @@ Mélange de projection vidéo et de jeu de lumières
 
 Histoire projeter sur les murs en face de l'interacteur
 
-Psrojection de visuelle qui suit l'histoire sur le sol
+Projection de visuelle qui suit l'histoire sur le sol
 
 Lumière qui suit également l'histoire
 
