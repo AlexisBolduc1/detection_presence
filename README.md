@@ -13,6 +13,13 @@ Plusieurs fins sont possible
 
 Projection à la fois sur les murs et sur le sol
 
+## Thème/Scripts
+Venir faire réaliser aux gens que chaque décision a un impact
+
+Que la décision soit minuscule ou grande, elles ont toujours un impact
+
+
+
 ## Inspirations 
 ### Conceptuelles 
 16 min. [Detroit Become Human](https://www.youtube.com/watch?v=t3cLDDwLeJA)
