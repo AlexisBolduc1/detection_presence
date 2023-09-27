@@ -18,6 +18,9 @@ Venir faire réaliser aux gens que chaque décision a un impact
 
 Que la décision soit minuscule ou grande, elles ont toujours un impact
 
+Qu'il n'y a pas de bonne ou de mauvaise décision simplement nos décisions
+
+À travers une journée qui semble banal, on vient se rendre compte que l'on fait constamment des choix
 
 
 ## Inspirations 
@@ -47,11 +50,17 @@ Psrojection de visuelle qui suit l'histoire sur le sol
 
 Lumière qui suit également l'histoire
 
-Un stand permet de décider les choix
+Un stand permet de voir les choix à faire
+
+Lors du choix toutes les lumières s'éteignent et 2 halo de lumière apparaissent
+
+Ce qui invite l'interacteur à venir se placer entre 2 halo de lumière qui représente chacun une décision
 
 Objet interactif permet également de faire un choix
 
 L'objet vient sortir à une séquence précise et invite l'intéracteur a faire un choix
+
+A utiliser ou non l'objet
 
 ![Exemple interaction](media/experience.png)
 
