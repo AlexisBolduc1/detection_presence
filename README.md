@@ -62,11 +62,14 @@ L'objet vient sortir à une séquence précise et invite l'intéracteur a faire 
 
 A utiliser ou non l'objet
 
+## Expérience générale
 ![Exemple interaction](media/experience.png)
 
+## Moment de faire le choix
 ![Exemple choix](media/choix.png)
 
-![Exemple app](media/choix.png)
+## Application du film interactif
+![Exemple app](media/app.png)
 
 ## Reconnaissance de limites / défis 
 
