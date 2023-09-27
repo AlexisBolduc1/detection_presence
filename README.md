@@ -64,6 +64,8 @@ A utiliser ou non l'objet
 
 ![Exemple interaction](media/experience.png)
 
+![Exemple choix](media/choix.png)
+
 ![Exemple app](media/choix.png)
 
 ## Reconnaissance de limites / défis 
