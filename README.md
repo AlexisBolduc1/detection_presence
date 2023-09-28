@@ -1,4 +1,4 @@
-Élaborer réellement une histoire, les choix, pourquoi on fait un choix, c'est quoi l'histoire, la recherche, l'expérirence
+Élaborer réellement une histoire, les choix, pourquoi on fait un choix, c'est quoi l'histoire, la recherche, l'expérience
 
 # Présentation d'une idée
 
