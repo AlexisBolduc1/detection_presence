@@ -1,3 +1,5 @@
+Élaborer réellement une histoire, les types de choix, pourquoi on fait un choix, c'est quoi l'histoire, la recherche, l'expérirence
+
 # Présentation d'une idée
 
 ## Concept général 
