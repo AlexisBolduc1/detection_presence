@@ -18,7 +18,9 @@ Que la décision soit minuscule ou grande, elles ont toujours un impact
 
 Qu'il n'y a pas de bonne ou de mauvaise décision simplement nos décisions
 
-À travers une journée qui semble banal, on vient se rendre compte que l'on fait constamment des choix
+On vient se rendre compte que l'on fait constamment des choix
+
+
 
 
 ## Inspirations 
